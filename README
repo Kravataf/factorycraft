@@ -1,3 +1,5 @@
+FACTORYCRAFT IS MADE IN GDEVELOP 5 SO IF U WANT TO EDIT IT IMPORT THE .json FILE INTO NEW FOLDER THEN ADD ALL OF THE EXTENSIONS/PLUGINS
+
 this is just a prototype not a game!! its completely broken if youre not the host of the server, theres 3 seconds delay in
 movement and you cant break blocks. also camera only follows the host because the new version of THNK multiplayer framework changed some stuff...
 github wont allow me to upload the textures so youre gonna have to add them manually i guess
